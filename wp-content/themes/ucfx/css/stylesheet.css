@@ -18623,7 +18623,7 @@ footer #lang_sel_list.lang_sel_list_vertical a,
 
 /* advanced responsiveness - end */
 .carousel-indicators li {
-  background-color: #fff;
+  background-color: #888;
   opacity: 0.4;
   margin: 0px 3px;
   -webkit-transition: all 0.6s ease-in-out;
